@@ -30,6 +30,10 @@ background:#000000 !important;
     left: 15px;
 }
 
+.box-number img{
+	width: 80px;
+	background: linear-gradient(rgb(190, 92, 232) rgb(81, 236, 81));
+}
 .my-float {
     margin-top: 16px;
 }
